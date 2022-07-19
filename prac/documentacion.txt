@@ -2,11 +2,11 @@ El presente código es un ejemplo en python de un programa que imprime en pantal
 
 El curso HCD está formado por los siguientes 6 módulos:
 	1. El Computador 
-	2. Interne
+	2. Internet
 	3. Power Point
 	4. Excel
 	5. Word
-	6. Colaboración
+	6. Herramientas Colaborativas
 
 La intención del código es ejemplificar el recorrido de una lista -for- para imprimir 
 su contenido en consola acompañado de una numeración relacionada con su índice -range(len())-.
